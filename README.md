@@ -17,11 +17,6 @@ A simple and beginner-friendly counter application built using **HTML, CSS, and 
 - Handling events with `addEventListener`
 - Updating content dynamically using JavaScript
 
-## 📸 Preview
-(Add a screenshot here if you want)
-
-## 🔗 Live Demo
-(Enable GitHub Pages and add the link here)
 
 ---
 
